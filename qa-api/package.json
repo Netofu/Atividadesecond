@@ -1,0 +1,14 @@
+{
+  "name": "quiz-api",
+  "version": "1.0.0",
+  "description": "API REST simples de perguntas e respostas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Aluno",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
